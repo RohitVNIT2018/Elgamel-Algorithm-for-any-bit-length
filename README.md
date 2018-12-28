@@ -1,2 +1,3 @@
 # Elgamel-Algorithm-for-any-bit-length
-Its a  asymmetric  Encryption-Decryption  Algorithm for bit length of key
+Using basic datatypes like int,float calculation for key size more than 64 bit is a difficult.
+Here i use BigInteger class of java that can deal with larger size input
