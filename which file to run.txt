@@ -1,0 +1,7 @@
+This program i hav made in Netbeans 7.0 IDE
+
+So , open it in Netbeans 7.0 or above version
+
+directly run MyElgamalprog.java file in it.
+
+User window will opens ...and runs.
